@@ -759,6 +759,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/ApHausFPV_modes.txt",
+      "hash": "f51cc91db6c66b4e42804cfd7a1831e5dbaa0c4810431bbc2326dcb564d74b07",
+      "title": "ApHausFPV T12 Pro Modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/modes/defaults.txt",
       "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
       "title": "Default 4.3 Modes and Adjustment settings",

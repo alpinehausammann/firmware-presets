@@ -1,0 +1,18 @@
+#$ TITLE: ApHausFPV T12 Pro Modes
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: mode, modes, adjustments, aux, switch
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: ApHausFPV modes
+
+# Clear current modes
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+
+
+#Active Aux. Modes
+
+aux 0 0 0 1900 2100 0 0
+aux 1 1 2 1900 2100 0 0
+aux 2 13 3 1400 1600 0 0
+aux 3 35 3 1400 1600 0 0
